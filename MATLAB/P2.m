@@ -1,6 +1,6 @@
 % Tecnologico de Monterrey, Campus Ciudad de México
-% Presenta: JESUS MELCHISEDEC VASQUEZ LOPEZ
-% Matricula: A01662904
+% Presenta: J.M.V.L.
+% Matricula: ---------
 % ANALISIS DE SISTEMAS DE IMAGENOLOGIA
 
 clc; clear; close all; %Limpieza
